@@ -4,3 +4,4 @@
 docker run --rm -v $(pwd):/work remuslazar/gnuplot ellipse.gp
 docker run --rm -v $(pwd):/work remuslazar/gnuplot hyperbola.gp
 docker run --rm -v $(pwd):/work remuslazar/gnuplot parabola.gp
+
